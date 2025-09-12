@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\SingContest\bin\Debug\net8.0\SingContest.exe
+C:\Users\User\Desktop\SingContest\bin\Debug\net8.0\SingContest.deps.json
+C:\Users\User\Desktop\SingContest\bin\Debug\net8.0\SingContest.runtimeconfig.json
+C:\Users\User\Desktop\SingContest\bin\Debug\net8.0\SingContest.dll
+C:\Users\User\Desktop\SingContest\bin\Debug\net8.0\SingContest.pdb
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.AssemblyInfo.cs
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.dll
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\refint\SingContest.dll
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.pdb
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\SingContest.genruntimeconfig.cache
+C:\Users\User\Desktop\SingContest\obj\Debug\net8.0\ref\SingContest.dll
