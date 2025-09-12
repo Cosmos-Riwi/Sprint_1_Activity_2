@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ShopCar\bin\Debug\net8.0\ShopCar.exe
+C:\Users\User\Desktop\ShopCar\bin\Debug\net8.0\ShopCar.deps.json
+C:\Users\User\Desktop\ShopCar\bin\Debug\net8.0\ShopCar.runtimeconfig.json
+C:\Users\User\Desktop\ShopCar\bin\Debug\net8.0\ShopCar.dll
+C:\Users\User\Desktop\ShopCar\bin\Debug\net8.0\ShopCar.pdb
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.AssemblyInfo.cs
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.dll
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\refint\ShopCar.dll
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.pdb
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ShopCar.genruntimeconfig.cache
+C:\Users\User\Desktop\ShopCar\obj\Debug\net8.0\ref\ShopCar.dll
