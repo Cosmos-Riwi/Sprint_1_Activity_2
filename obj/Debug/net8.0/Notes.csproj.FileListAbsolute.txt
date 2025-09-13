@@ -1,0 +1,14 @@
+/home/csharp/Escritorio/Notes/bin/Debug/net8.0/Notes
+/home/csharp/Escritorio/Notes/bin/Debug/net8.0/Notes.deps.json
+/home/csharp/Escritorio/Notes/bin/Debug/net8.0/Notes.runtimeconfig.json
+/home/csharp/Escritorio/Notes/bin/Debug/net8.0/Notes.dll
+/home/csharp/Escritorio/Notes/bin/Debug/net8.0/Notes.pdb
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.GeneratedMSBuildEditorConfig.editorconfig
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.AssemblyInfoInputs.cache
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.AssemblyInfo.cs
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.csproj.CoreCompileInputs.cache
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.dll
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/refint/Notes.dll
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.pdb
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/Notes.genruntimeconfig.cache
+/home/csharp/Escritorio/Notes/obj/Debug/net8.0/ref/Notes.dll
