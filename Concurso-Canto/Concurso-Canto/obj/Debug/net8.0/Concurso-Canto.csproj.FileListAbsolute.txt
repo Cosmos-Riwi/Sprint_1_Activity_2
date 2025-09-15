@@ -1,0 +1,14 @@
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/bin/Debug/net8.0/Concurso-Canto
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/bin/Debug/net8.0/Concurso-Canto.deps.json
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/bin/Debug/net8.0/Concurso-Canto.runtimeconfig.json
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/bin/Debug/net8.0/Concurso-Canto.dll
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/bin/Debug/net8.0/Concurso-Canto.pdb
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.GeneratedMSBuildEditorConfig.editorconfig
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.AssemblyInfoInputs.cache
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.AssemblyInfo.cs
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.csproj.CoreCompileInputs.cache
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.dll
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/refint/Concurso-Canto.dll
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.pdb
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/Concurso-Canto.genruntimeconfig.cache
+/home/c-sharp/Escritorio/Concurso-Canto/Concurso-Canto/obj/Debug/net8.0/ref/Concurso-Canto.dll

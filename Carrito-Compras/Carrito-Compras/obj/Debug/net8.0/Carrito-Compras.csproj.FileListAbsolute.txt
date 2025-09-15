@@ -1,0 +1,14 @@
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/bin/Debug/net8.0/Carrito-Compras
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/bin/Debug/net8.0/Carrito-Compras.deps.json
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/bin/Debug/net8.0/Carrito-Compras.runtimeconfig.json
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/bin/Debug/net8.0/Carrito-Compras.dll
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/bin/Debug/net8.0/Carrito-Compras.pdb
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.GeneratedMSBuildEditorConfig.editorconfig
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.AssemblyInfoInputs.cache
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.AssemblyInfo.cs
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.csproj.CoreCompileInputs.cache
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.dll
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/refint/Carrito-Compras.dll
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.pdb
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/Carrito-Compras.genruntimeconfig.cache
+/home/c-sharp/Escritorio/Carrito-Compras/Carrito-Compras/obj/Debug/net8.0/ref/Carrito-Compras.dll

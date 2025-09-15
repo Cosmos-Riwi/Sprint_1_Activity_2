@@ -1,0 +1,14 @@
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.GeneratedMSBuildEditorConfig.editorconfig
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.AssemblyInfoInputs.cache
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.AssemblyInfo.cs
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.csproj.CoreCompileInputs.cache
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/bin/Debug/net8.0/Empresa-Empleados
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/bin/Debug/net8.0/Empresa-Empleados.deps.json
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/bin/Debug/net8.0/Empresa-Empleados.runtimeconfig.json
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/bin/Debug/net8.0/Empresa-Empleados.dll
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/bin/Debug/net8.0/Empresa-Empleados.pdb
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.dll
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/refint/Empresa-Empleados.dll
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.pdb
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/Empresa-Empleados.genruntimeconfig.cache
+/home/c-sharp/Escritorio/Empresa-Empleados/Empresa-Empleados/obj/Debug/net8.0/ref/Empresa-Empleados.dll
